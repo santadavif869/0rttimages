@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "1hoimages",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3a0cff74-88ef-4d2e-927c-e2b30c58d717",
+      "database_name": "images"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
